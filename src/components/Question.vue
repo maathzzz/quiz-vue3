@@ -5,7 +5,7 @@
 <template>
     <div class="question-container">
         <h1 class="question">
-            {{ question.text }}
+            {{ question.text }}?
         </h1>
     </div>
         <div class="option-container">
